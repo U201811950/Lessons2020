@@ -76,3 +76,5 @@ if str.isdecimal(Length):
 else:
 
     print('请输入阿拉伯数字')
+
+# try_1
