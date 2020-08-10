@@ -61,11 +61,11 @@ if str.isdecimal(Length):
 
     num = int(Length)
 
-    if Type == "实心" or "实":
+    if Type == ("实心" or "实"):
 
         triangle(num)
 
-    elif Type == '空心' or '空':
+    elif Type == ('空心' or '空'):  # 加了个括号
 
         hollow_triangle(num)
 
