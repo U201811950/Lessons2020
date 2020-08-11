@@ -1,21 +1,27 @@
-# Try to write my first README article
+# Draw_triangle
 
-## 二级标题开始还是用中文吧
+This program is a simple tool for drawing triangles.
 
-假装这儿有正文
+## Installation
 
-### 三级标题只是试着用用
+Just open this with any IDE.
 
-This is a simple tool to draw a triangle, **really, very simple**.  
-*And sentences below are just for testing.*
+```
+It's too small for further usage.
+```
 
-换一段
+## Usage
 
-1. I have no idea what I am doing.
-2. I don't know what to do.
-   1. This is not working.
-   
-Tomorrow let's cook something delicious.
+```
+Just for fun!
+```
 
-![](2020-08-10-19-05-16.png)
-*W-H-Y T-H-I-S?*
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Special thanks
+
+https://www.liaoxuefeng.com/wiki/1016959663602400
+
+I learned a lot from this.
